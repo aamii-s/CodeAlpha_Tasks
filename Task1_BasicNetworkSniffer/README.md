@@ -1,4 +1,3 @@
-# CodeAlpha_BasicNetworkSniffer
 # Basic Network Sniffer
 
 A simple network sniffer made using Python and Scapy. It captures network packets and displays basic information about the traffic.
@@ -31,3 +30,12 @@ Run the program using:
 ```bash
 sudo python3 network_sniffer.py
 ```
+
+## Result
+
+The network sniffer successfully captured network packets and displayed information such as source IP, destination IP, protocol, and packet details.
+
+
+## Conclusion
+
+This task provided practical experience in capturing and analyzing network traffic using Python and Scapy.
